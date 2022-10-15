@@ -1,7 +1,7 @@
 # TMDb-Movie-project
 Perfoming data wrangling and visualization on the tmdb-movie dataset using python and its libraries.
-This data set contains information about 10,000 movies collected from The Movie Database.It describes the budgets,revenues,popularity and the genres of the movies.It also shows the release dates of movies,its cast,directors and production companies to mention a few.
-The data set contains 21 columns:
+<n/>This data set contains information about 10,000 movies collected from The Movie Database.It describes the budgets,revenues,popularity and the genres of the movies.It also shows the release dates of movies,its cast,directors and production companies to mention a few.
+<n/>The data set contains 21 columns:
 -id-its the unique identifier for every movie.
 -imdb_id-shows the identity of a movie.
 -popularity-shows how popular the movie is.
